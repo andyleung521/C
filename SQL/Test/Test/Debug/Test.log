@@ -1,0 +1,20 @@
+﻿生成启动时间为 2019/2/28 7:51:34。
+     1>项目“D:\CodeLife\Code\C++\SQL\Test\Test\Test.vcxproj”在节点 2 上(Rebuild 个目标)。
+     1>_PrepareForClean:
+         正在删除文件“Debug\Test.tlog\Test.lastbuildstate”。
+       InitializeBuildStatus:
+         正在对“Debug\Test.tlog\unsuccessfulbuild”执行 Touch 任务。
+       ClCompile:
+         D:\vs2013\VC\bin\CL.exe /c /ID:\CodeLife\Code\C++\SQL\Test\Test\ /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt SQL.cpp
+         SQL.cpp
+       Link:
+         D:\vs2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"D:\CodeLife\Code\C++\SQL\Test\Debug\Test.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"D:\CodeLife\Code\C++\SQL\Test\Debug\Test.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"D:\CodeLife\Code\C++\SQL\Test\Debug\Test.lib" /MACHINE:X86 Debug\SQL.obj
+         Test.vcxproj -> D:\CodeLife\Code\C++\SQL\Test\Debug\Test.exe
+       FinalizeBuildStatus:
+         正在删除文件“Debug\Test.tlog\unsuccessfulbuild”。
+         正在对“Debug\Test.tlog\Test.lastbuildstate”执行 Touch 任务。
+     1>已完成生成项目“D:\CodeLife\Code\C++\SQL\Test\Test\Test.vcxproj”(Rebuild 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:02.21
